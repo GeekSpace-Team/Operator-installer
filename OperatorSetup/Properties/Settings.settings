@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OperatorSetup.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FrontPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5566</Value>
+    </Setting>
+    <Setting Name="BackendPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FrontendPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AdminUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://95.85.119.162:5566/login</Value>
+    </Setting>
+    <Setting Name="EntireUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:5566</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

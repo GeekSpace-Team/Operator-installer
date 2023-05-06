@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorSetup", "OperatorSetup\OperatorSetup.csproj", "{E6F519D1-3C48-4909-A4EB-E2E20C1E5394}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OperatorInstaller", "OperatorInstaller\OperatorInstaller.vdproj", "{D295DB27-B4AD-410A-B220-FAA0BFC2FCC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F519D1-3C48-4909-A4EB-E2E20C1E5394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F519D1-3C48-4909-A4EB-E2E20C1E5394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F519D1-3C48-4909-A4EB-E2E20C1E5394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F519D1-3C48-4909-A4EB-E2E20C1E5394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D295DB27-B4AD-410A-B220-FAA0BFC2FCC2}.Debug|Any CPU.ActiveCfg = Debug
+		{D295DB27-B4AD-410A-B220-FAA0BFC2FCC2}.Release|Any CPU.ActiveCfg = Release
+		{D295DB27-B4AD-410A-B220-FAA0BFC2FCC2}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073F6210-2CC6-4B4D-A2A4-FE87DF6E4D5E}
+	EndGlobalSection
+EndGlobal
